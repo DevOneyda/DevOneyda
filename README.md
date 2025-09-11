@@ -54,13 +54,6 @@
 	</p>
     </p>
 </div>
-
-<!-- ![Supabase](https://img.shields.io/badge/-Supabase-092E20?style=flat&logo=Color=white)
-![SQL](https://img.shields.io/badge/-PostgreSQL-52b5f7?style=flat&logo=postgresql&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-74aa9c?style=flat&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-F37440?style=flat&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=amazons3&logoColor=white)-->
 <br> 
 
 
@@ -98,12 +91,10 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 </div>-->
 
 <!-- Activity Graph card -->
-</br>
-</br>
-<h2>Activity Graph</h2>
+<!-- <h2>Activity Graph</h2>
 
 ![Oneyda's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevOneyda&custom_title=Oneyda's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
@@ -111,9 +102,9 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 ![GitHub followers](https://img.shields.io/github/followers/DevOneyda?style=flat&logo=github&color=05122A&labelColor=05122A)
 <!--![Profile Views](https://komarev.com/ghpvc/?username=DevOneyda&style=flat&labelolor=05122A&color=05122A)-->
 
-------
+<!-- ------
 Credit: [DevOneyda](https://github.com/DevOneyda) \
-Last Edited on: 10/09/2025
+Last Edited on: 10/09/2025-->
 
 <!--
 **DevOneyda/DevOneyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
